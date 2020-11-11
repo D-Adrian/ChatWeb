@@ -1,0 +1,12 @@
+body {
+  background: #36393f;
+}
+
+svg {
+  color: white;
+}
+
+input,
+button {
+  vertical-align: middle;
+}
